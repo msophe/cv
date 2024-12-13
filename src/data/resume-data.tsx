@@ -13,9 +13,9 @@ export const RESUME_DATA = {
   location: "Dar es salaam, Tanzania, EAT",
   locationLink: "https://maps.app.goo.gl/rqFyNd5dxBYkGLxv6",
   about:
-    "A Junior Full Stack Engineer specializing in developing secure and compliant digital payment solutions for the informal sector",
+    "A Backend developer passionate in building digital solutions that make an impact in the community",
   summary:
-    "As a Junior Full Stack Engineer, I have successfully worked on multiple products doing well in the market. I work mostly with JavaScript, Node.js, TypeScript and MongoDB. I have over 2 years of experience in working with global companies all around the world.",
+    "A dedicated backend developer with over 2 years of experience, I specialize in building scalable and efficient server-side solutions. I have successfully contributed to multiple projects that are thriving in both local and global markets. I’m committed to continuous learning and solving complex challenges to bring impactful solutions to life.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
@@ -41,10 +41,10 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Unique Academy",
-      degree: "Bachelor's Degree Information Security",
-      start: "2024",
-      end: "2027",
+      school: "National Institute of Transport",
+      degree: "Bachelor's Degree in Information Technology",
+      start: "2022",
+      end: "2025",
     },
   ],
   work: [
@@ -68,7 +68,7 @@ export const RESUME_DATA = {
       start: "10/2022",
       end: "4/2023",
       description:
-        "Key contributor to the digitization of Tanzania's informal sector through PSP licensed by the Bank of Tanzania. Developed and implemented robust digital payment systems, provided end-to-end technical support, and managed system administration. Ensured seamless usage of PSP system providing smooth customer onboarding and technical support while enhancing customer onboarding processes. Skills: CRM Software, Data Analysis and Processing, lead generation, customer support",
+        "Focused on troubleshooting technical challenges and ensuring customer satisfaction through timely support and problem resolution. Provided first-level technical assistance to clients, troubleshoot issues, and  handled escalation complex challenges.",
     },
     {
       company: "Tanzania Ports Authority",
@@ -79,18 +79,18 @@ export const RESUME_DATA = {
       start: "7/2022",
       end: "10/2022",
       description:
-        "The leading entity in port management for Tanzania, overseeing the efficient handling and operation of maritime activities. Playing a pivotal role in facilitating trade, transportation, and logistics, ensuring smooth cargo handling, vessel operations and port services. Ensured seamless daily operations by providing technical assistance, optimizing network infrastructure, and developing innovative software solutions. Technologies: Boostrap, Tailwind CSS, Php, MYSQL",
+        "Maintained smooth operation of the organization’s IT systems by troubleshooting technical issues and providing timely solutions. Assisted with hardware, software, and network problems. Also monitored system performance, installed updates, and provided technical guidance to enhance overall productivity",
     },
   ],
   skills: [
     "JavaScript",
     "Node.js",
     "TypeScript",
-    "PostgreSQL",
-    "MONGODB",
+    "Product Design",
+    "MongoDB",
     "API development",
-    "Technical IT Support",
-    "Data Protection",
+    "Next.js",
+    "API development",
   ],
   
   projects: [
