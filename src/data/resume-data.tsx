@@ -95,35 +95,35 @@ export const RESUME_DATA = {
   
   projects: [
     {
-      title: "ARchive",
+      title: "Fanisi",
       techStack: [
         "Side Project",
         "JavaScript",
-        "React",
-        "Node js",
-        "MongDB",
+        "HTML/CSS",
+        "CRM",
+        "Web design",
       ],
-      description: "An intuitive platform that assists to record and maintain electronic inventory for large organizations",
-      logo:WakandiLogo,
-      link: {
-        label: "eims.net",
-        href: "https://eims.net",
-      },
-    },
-    {
-      title: "FANISI",
-      techStack: [
-        "Client Project",
-        "JavaScript",
-        "CMS and CRM",
-        "RESTPAPIs",
-        "React",
-      ],
-      description: "Design and implemeted a database solution for seamless data storage and sharing between different platforms",
+      description: "Designed and implemented a crm solution for client communication and data management",
       logo:WakandiLogo,
       link: {
         label: "fanisiprogram.com",
         href: "https://fanisiprogram.com",
+      },
+    },
+    {
+      title: "AFL Insurance",
+      techStack: [
+        "Client Project",
+        "JavaScript",
+        "HTML/CSS",
+        "API design",
+        "React",
+      ],
+      description: "Designed a dynamic website for client insurance services and coupled it with a crm solution for data management",
+      logo:WakandiLogo,
+      link: {
+        label: "aflinsurance.co.tz",
+        href: "https://aflinsurance.co.tz",
       },
     },
   ],
