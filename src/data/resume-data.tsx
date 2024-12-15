@@ -52,23 +52,23 @@ export const RESUME_DATA = {
       company: "Wakandi",
       link: "https://wakandi.com",
       badges: ["Onsite"],
-      title: "Technical Support",
+      title: "Onboarding Coordinator",
       logo:WakandiLogo,
-      start: "5/2023",
+      start: "10/2024",
       end: "Present",
       description:
-        "Key contributor to the digitization of Tanzania's informal sector through PSP licensed by the Bank of Tanzania. Developed and implemented robust digital payment systems, provided end-to-end technical support, and managed system administration. Ensured strict compliance with financial regulations while enhancing customer onboarding processes. Technologies: React, JavaScript, POSTGRESQL, RESTAPIs",
+        "Leading the onboarding team, ensuring a smooth onboarding experience for new clients. Setting up Accounts and services and provide training and resources to ensure successful adoption."
     },
     {
       company: "Wakandi",
       link: "https://wakandi.com",
       badges: ["Onsite"],
-      title: "Technical Support officer",
+      title: "Technical Support",
       logo:WakandiLogo,
       start: "5/2023",
-      end: "Present",
+      end: "9/2024",
       description:
-        "Key contributor to the digitization of Tanzania's informal sector through PSP licensed by the Bank of Tanzania. Developed and implemented robust digital payment systems, provided end-to-end technical support, and managed system administration. Ensured strict compliance with financial regulations while enhancing customer onboarding processes. Technologies: React, JavaScript, POSTGRESQL, RESTAPIs",
+        "Transitioned to fulltime technical support, Offered guidance to clients on system usage, Assisted in troubleshooting and improving system features. Provided technical guidance to team members to enhance their overall performance."
     },
     {
       company: "Wakandi",
