@@ -16,7 +16,7 @@ export const RESUME_DATA = {
     "A Backend developer passionate in building digital solutions that make an impact in the community",
   summary:
     "A dedicated backend developer with over 2 years of experience, I specialize in building scalable and efficient server-side solutions. I have successfully contributed to multiple projects that are thriving in both local and global markets. I’m committed to continuous learning and solving complex challenges to bring impactful solutions to life.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "https://avatars.githubusercontent.com/u/172833749?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
     email: "ryannurru@gmail.com",
