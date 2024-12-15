@@ -52,6 +52,17 @@ export const RESUME_DATA = {
       company: "Wakandi",
       link: "https://wakandi.com",
       badges: ["Onsite"],
+      title: "Technical Support",
+      logo:WakandiLogo,
+      start: "5/2023",
+      end: "Present",
+      description:
+        "Key contributor to the digitization of Tanzania's informal sector through PSP licensed by the Bank of Tanzania. Developed and implemented robust digital payment systems, provided end-to-end technical support, and managed system administration. Ensured strict compliance with financial regulations while enhancing customer onboarding processes. Technologies: React, JavaScript, POSTGRESQL, RESTAPIs",
+    },
+    {
+      company: "Wakandi",
+      link: "https://wakandi.com",
+      badges: ["Onsite"],
       title: "Technical Support officer",
       logo:WakandiLogo,
       start: "5/2023",
@@ -97,7 +108,6 @@ export const RESUME_DATA = {
     {
       title: "Fanisi",
       techStack: [
-        "Side Project",
         "JavaScript",
         "HTML/CSS",
         "CRM",
@@ -113,9 +123,8 @@ export const RESUME_DATA = {
     {
       title: "AFL Insurance",
       techStack: [
-        "Client Project",
+        "Tailwind CSS",
         "JavaScript",
-        "HTML/CSS",
         "API design",
         "React",
       ],
