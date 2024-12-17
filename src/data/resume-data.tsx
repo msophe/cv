@@ -101,7 +101,8 @@ export const RESUME_DATA = {
     "MongoDB",
     "API development",
     "Next.js",
-    "API development",
+    "SQL",
+    "React",
   ],
   
   projects: [
@@ -126,7 +127,7 @@ export const RESUME_DATA = {
         "Tailwind CSS",
         "JavaScript",
         "API design",
-        "React",
+        "CRM",
       ],
       description: "Designed a dynamic website for client insurance services and coupled it with a crm solution for data management",
       logo:WakandiLogo,
