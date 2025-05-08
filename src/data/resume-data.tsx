@@ -13,9 +13,9 @@ export const RESUME_DATA = {
   location: "Dar es salaam, Tanzania, EAT",
   locationLink: "https://maps.app.goo.gl/rqFyNd5dxBYkGLxv6",
   about:
-    "A Backend developer passionate in building digital solutions that make an impact in the community",
+    "A Software Engineer passionate in building digital solutions that make an impact in the community",
   summary:
-    "A dedicated backend developer with over 2 years of experience, I specialize in building scalable and efficient server-side solutions. I have successfully contributed to multiple projects that are thriving in both local and global markets. I’m committed to continuous learning and solving complex challenges to bring impactful solutions to life.",
+    "A seasoned software engineer with over 2 years of experience, I specialize in building scalable and efficient server-side solutions. I have successfully contributed to multiple projects that are thriving in both local and global markets. Currently focused in enhancing Tanzania's informal sector by introducing technological solutions for community financial groups.",
   avatarUrl: "https://avatars.githubusercontent.com/u/172833749?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
@@ -43,8 +43,8 @@ export const RESUME_DATA = {
     {
       school: "National Institute of Transport",
       degree: "Bachelor's Degree in Information Technology",
-      start: "2022",
-      end: "2025",
+      start: "",
+      end: "2024",
     },
   ],
   work: [
@@ -52,12 +52,12 @@ export const RESUME_DATA = {
       company: "Wakandi",
       link: "https://wakandi.com",
       badges: ["Onsite"],
-      title: "Onboarding Coordinator",
+      title: "Onboarding Lead",
       logo:WakandiLogo,
       start: "10/2024",
       end: "Present",
       description:
-        "Leading the onboarding team, ensuring a smooth onboarding experience for new clients. Setting up Accounts and services and provide training and resources to ensure successful adoption."
+        "Leading the onboarding team, ensuring a smooth onboarding experience for new clients. Setting up Accounts and services and provide training and resources to ensure successful adoption of our product."
     },
     {
       company: "Wakandi",
@@ -79,7 +79,7 @@ export const RESUME_DATA = {
       start: "10/2022",
       end: "4/2023",
       description:
-        "Focused on troubleshooting technical challenges and ensuring customer satisfaction through timely support and problem resolution. Provided first-level technical assistance to clients, troubleshoot issues, and  handled escalation complex challenges.",
+        "Focused on troubleshooting technical challenges and ensuring customer satisfaction through timely support and problem resolution. Provided first-level technical assistance to clients, troubleshoot issues, and  handled escalation of complex challenges.",
     },
     {
       company: "Tanzania Ports Authority",
@@ -110,7 +110,7 @@ export const RESUME_DATA = {
       title: "Fanisi",
       techStack: [
         "JavaScript",
-        "HTML/CSS",
+        "React",
         "CRM",
         "Web design",
       ],
