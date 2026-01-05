@@ -41,18 +41,18 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "National Institute of Transport",
-      degree: "Bachelor's Degree in Information Technology",
+      school: "Unique Academy",
+      degree: "Bachelor's Degree in Information Security",
       start: "",
-      end: "2024",
+      end: "2028",
     },
   ],
   work: [
     {
-      company: "Wakandi",
+      company: "Wakandi Group",
       link: "https://wakandi.com",
       badges: ["Onsite"],
-      title: "Onboarding Lead",
+      title: "Technical & Onboarding Lead",
       logo:WakandiLogo,
       start: "10/2024",
       end: "Present",
@@ -63,7 +63,7 @@ export const RESUME_DATA = {
       company: "Wakandi",
       link: "https://wakandi.com",
       badges: ["Onsite"],
-      title: "Technical Support",
+      title: "Technical Support Officer",
       logo:WakandiLogo,
       start: "5/2023",
       end: "9/2024",
