@@ -15,7 +15,7 @@ export const RESUME_DATA = {
   about:
     "A Software Engineer passionate in building digital solutions that make an impact in the community",
   summary:
-    "A seasoned software engineer with over 2 years of experience, I specialize in building scalable and efficient server-side solutions. I have successfully contributed to multiple projects that are thriving in both local and global markets. Currently focused in enhancing Tanzania's informal sector by introducing technological solutions for community financial groups.",
+    "A seasoned software engineer with over 4 years of experience, I specialize in building scalable and efficient server-side solutions. I have successfully contributed to multiple projects that are thriving in both local and global markets. Currently focused in enhancing Tanzania's informal sector by introducing technological solutions for community financial groups.",
   avatarUrl: "https://avatars.githubusercontent.com/u/172833749?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
@@ -44,7 +44,7 @@ export const RESUME_DATA = {
       school: "Unique Academy",
       degree: "Bachelor's Degree in Information Security",
       start: "",
-      end: "2028",
+      end: "2024",
     },
   ],
   work: [
